@@ -4,10 +4,10 @@ Explore the code and design to enhance your web development knowledge and inspir
 
 Key Features:
 
-HTML, CSS, Bootstrap and JavaScript implementation
-Clean and responsive design
-Ideal for educational purposes and practice
-Easy-to-follow code structure
+HTML, CSS, Bootstrap and JavaScript implementation. 
+Clean and responsive design. 
+Ideal for educational purposes and practice. 
+Easy-to-follow code structure.
 
 
 # Home Page
@@ -20,7 +20,8 @@ Easy-to-follow code structure
 <img width="953" alt="Travel Page" src="https://github.com/attaelahi/Go-See/assets/72361631/751f05ed-98cd-4a46-abff-c30d9918b32f">
 
 # Holyday page
-![Uploading Holyday Page.png…]()
+<img width="953" alt="Holyday Page" src="https://github.com/attaelahi/Go-See/assets/72361631/135d2cb0-9b7d-4017-86f4-b611dc24eeed">
+
 
 Feel free to clone or fork this repository to further develop your web development skills or use it as a starting point for your own projects. Happy coding!
 
