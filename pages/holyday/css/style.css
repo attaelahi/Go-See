@@ -1,0 +1,234 @@
+
+
+/* about us */
+
+.about-us {
+    position: relative;
+    padding: 80px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-us .row > .col-lg-6:first-of-type {
+    position: relative;
+    left: 50px;
+}
+
+.about-us .small-container > p + div {
+    padding: 70px 0;
+    background-color: white;
+    box-shadow: 5px 5px 10px #d2cfcf, -5px -5px 10px #d2cfcf;
+}
+
+.about-us .small-container > p + div h4 {
+    margin-bottom: 40px
+}
+
+.about-us .small-container .text-right p {
+    margin-bottom: 50px;
+    width: 80%;
+    float: right;
+}
+
+.about-us .small-container > p + div button {
+    background-color: #bd8cbf;
+    border: none;
+}
+
+.about-us .small-container > p + div a {
+    display: block;
+    color: #FFF;
+    padding: 10px 40px;
+}
+
+.about-us .item {
+    width: 200px;
+    position: absolute;
+    color: white;
+    background-color: #bd8cbf;
+}
+
+.about-us .item p {
+    font-size: 15px;
+}
+
+.about-us .item img {
+    width: 100%;
+    height: 150px
+}
+
+.about-us .item h5 {
+    margin: 5px 0;
+}
+
+.about-us .item p {
+    margin-bottom: 5px;
+}
+
+.about-us .item:first-of-type {
+    left: 405px;
+    bottom: 115px;
+    z-index: 2;
+    box-shadow: -2px 2px 10px #5d5959;
+}
+
+.about-us .item:nth-of-type(2) {
+    left: 105px;
+    bottom: 115px;
+    z-index: 2;
+    box-shadow: 2px 2px 10px #5d5959;
+}
+
+.about-us .item:nth-of-type(3) {
+    position: relative;
+    top: 162px;
+    left: -45px;
+}
+
+.about-us .item:nth-of-type(3) img {
+    position: absolute;
+    bottom: 70px;
+    right: 0px;
+    z-index: 0;
+}
+
+.about-us .item:last-of-type {
+    left: 268px;
+    top: 90px;
+}
+
+.about-us .first {
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    background-color: #bd8cbf;
+    top: 140px;
+    z-index: -5;
+} */
+
+.about-us .second {
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    background-color: #bd8cbf;
+    bottom: 58px;
+    right: 34px;
+    z-index: -5;
+}
+
+ .about-us .row > div > .item:nth-of-type(3) div {
+    position: relative;
+    z-index: 5;
+    background-color: #bd8cbf;
+    padding: 5px;
+}
+
+/* services */
+
+.services {
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.services .slide {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.services .carousel-inner .carousel-item {
+    width: 100%;
+    height: 100%
+}
+
+.services .carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+
+.services .carousel-control-next, .services .carousel-control-prev {
+    width: 60px;
+    height: 60px;
+    background: #bd8cbf;
+    border-radius: 50%;
+}
+
+.services .carousel-control-next i, .services .carousel-control-prev i {
+    color: #000
+}
+
+.services .carousel-control-next {
+    right: 0;
+    top: 80%;
+    right: 40%;
+    background-color: #FFF;
+}
+
+.services .carousel-control-prev {
+    top: 80%;
+    left: 40%;
+}
+
+.services i {
+    color: #bd8cbf;
+}
+
+/* agency */
+
+.agency {
+    background-image: url('../imgs/agency.jpg');
+    font-family: 'Open Sans', sans-serif;
+    background-size: cover;
+}
+
+.agency .container > div {
+    margin: 0 auto;
+    width: 86%;
+    margin-bottom: 30px;
+}
+
+.agency .white-overlay {
+   padding: 50px 0 20px;
+}
+
+.agency .container > div > div {
+    display: inline-block;
+    position: relative
+}
+
+.agency .container > div > div img {
+    width: 500px;
+    margin: 0 20px;
+}
+
+.agency img:first-of-type, .agency img:last-of-type {
+    width: 200px;
+}
+
+.agency .container > div h2 {
+    position: absolute;
+    color: white;
+    bottom: 105px;
+    left: 195px;
+    font-size: 40px;
+}
+
+/* statistics */
+
+.statistics {
+    padding: 50px 0;
+    font-family: sans-serif;
+}
+
+.statistics i, .statistics p {
+    color: #bd8cbf;
+}
+
+.statistics i {
+    margin-bottom: 10px;
+}
+
+.statistics h3 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
